@@ -1,0 +1,6 @@
+name: TOmCore
+version: 1.0
+main: me.Teoman00.TOmCore.Main
+
+description: A core for TOm Plugins
+author: Teoman00
